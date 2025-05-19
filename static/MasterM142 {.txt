@@ -1,0 +1,75 @@
+            "MasterM142": {
+                image: "/static/images/masterm142.png",
+                regularFacts: [
+                    
+                    "mag Autos",
+                    "Sarah",
+                    "bin 1,86m groß"
+                ],
+                keyFacts: [
+                    "Hat mehr Follower als Netami auf Twitch"
+                ],
+                finalFact: "GeoGuessr Pro"
+            },
+            "Apple Piece": {
+                image: "/static/images/applepeace.png",
+                regularFacts: [
+                    "Robben sind toll",
+                    "3 Vornamen",
+                    "gut in Badminton(ist nen Sport)"
+                ],
+                keyFacts: [
+                    "undgesundes Verhältnis zu weißen Monster"
+                ],
+                finalFact: "Das einzige Mädchen im Moderator Team"
+            },
+            "Foxy": {
+                image: "/static/images/foxy.png",
+                regularFacts: [
+                    "Hat 5 PCs in seinem Zimmer",
+                    "Ist ein großer Fan von Fnaf",
+                    "Friends vs Friends Fan"
+                ],
+                keyFacts: [
+                    "Lebt in einer WG"
+                ],
+                finalFact: "Ist ein Furry"
+            },
+            "Ked": {
+                image: "/static/images/ked.png",
+                regularFacts: [
+                    "Kochen",
+                    "Lieblingsfarbe: Orange",
+                    "Name Elias"
+                ],
+                keyFacts: [
+                    "Angeln"
+                ],
+                finalFact: "Österreicher"
+            },
+            "ChaosBen": {
+                image: "/static/images/chaosben.png",
+                regularFacts: [
+                    "versteht keine Spaß",
+                    "Inaktivster Mod auf DC",
+                    "Politisch"
+                ],
+                keyFacts: [
+                    "hat ne 12tb database gelöscht"
+                ],
+                finalFact: "Hartnäckkig"
+            },
+            "Ned": {
+                image: "/static/images/ned.png",
+                regularFacts: [
+                    "BBO$ Fav Rapper",
+                    "Fav Game Minecraft",
+                    "Spielt Gerne Tischtennis"
+                ],
+                keyFacts: [
+                    "Schaut zuviel Tonverändert"
+                ],
+                finalFact: "Neuer Mod"
+            }
+        };
+        
